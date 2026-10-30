@@ -1,0 +1,38 @@
+抽样月份：202303，文件数 30
+当月事件总数 3,534,065；涉美事件 964,227（27.3%）
+=== 涉美事件信源分类份额 ===
+generic_tld: 776,533（80.5%）
+us_uk_major: 124,634（12.9%）
+other: 35,624（3.7%）
+national_domain: 27,436（2.8%）
+=== 涉美事件前 30 信源域名 ===
+yahoo.com	51,638	5.36%
+msn.com	25,070	2.60%
+dailymail.co.uk	10,663	1.11%
+foxnews.com	9,247	0.96%
+theepochtimes.com	6,357	0.66%
+washingtonpost.com	5,785	0.60%
+nytimes.com	4,881	0.51%
+newsweek.com	4,525	0.47%
+cbsnews.com	4,497	0.47%
+menafn.com	3,793	0.39%
+usatoday.com	3,654	0.38%
+latimes.com	3,641	0.38%
+dailycaller.com	3,640	0.38%
+washingtonexaminer.com	3,166	0.33%
+theguardian.com	2,789	0.29%
+arkansasonline.com	2,724	0.28%
+washingtontimes.com	2,682	0.28%
+dailyridge.com	2,655	0.28%
+prnewswire.com	2,602	0.27%
+go.com	2,564	0.27%
+heritage.org	2,556	0.27%
+nbcnews.com	2,424	0.25%
+indiatimes.com	2,386	0.25%
+breitbart.com	2,384	0.25%
+iheart.com	2,366	0.25%
+sandiegouniontribune.com	2,359	0.24%
+nydailynews.com	2,344	0.24%
+chicagotribune.com	2,330	0.24%
+gazette.com	2,311	0.24%
+ibtimes.com	2,182	0.23%
