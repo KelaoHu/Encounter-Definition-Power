@@ -137,6 +137,7 @@ The raw package contains a small number of duplicate files, missing days, and hi
 ├── VALIDATION.zh-CN.md
 ├── LICENSE
 ├── LICENSE-DOCS.md
+├── CITATION.cff
 ├── requirements.txt
 ├── .gitignore
 ├── code/
@@ -362,6 +363,8 @@ When using this repository, please cite the paper, GDELT, and the United Nations
 - Hu, Kelao. *The Power to Define Encounter: A Century of U.S. International Communication and Its Datafied Form*. Paper accepted by the 2026 Annual Conference of the Professional Committee for the History of Journalism and Communication Thought, Chinese Association for the History of Journalism and Mass Communication (CAHJC), 2026.
 - The GDELT Project, *GDELT Events and GDELT 2.0 Event Database*.
 - United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*.
+
+The **Cite this repository** button in the sidebar is generated from [`CITATION.cff`](CITATION.cff).
 
 ## License
 

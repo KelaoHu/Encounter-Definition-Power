@@ -135,6 +135,7 @@ GDELT 持续采集全球新闻报道，将新闻文本转化为“谁、对谁�
 ├── VALIDATION.zh-CN.md
 ├── LICENSE
 ├── LICENSE-DOCS.md
+├── CITATION.cff
 ├── requirements.txt
 ├── .gitignore
 ├── code/
@@ -358,6 +359,8 @@ python code/python/10_validate_results.py --raw-dir "/path/to/GDELT/ZIP"
 - 胡克劳：《相遇的定义权：美国国际传播的百年演变与数据化形态》，中国新闻史学会新闻传播思想史专业委员会2026学术年会录用论文，2026。
 - The GDELT Project, GDELT Events and GDELT 2.0 Event Database.
 - United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*.
+
+侧边栏的 **Cite this repository** 按钮由 [`CITATION.cff`](CITATION.cff) 生成。
 
 ## 许可
 

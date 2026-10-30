@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Power to Define Encounter: A Century of U.S. International Communication and Its Datafied Form — Reproduction Package"
+type: software
+authors:
+  - family-names: "Hu"
+    given-names: "Kelao"
+    orcid: "https://orcid.org/0009-0006-2576-4666"
+date-released: 2026-10-30
+license: "MIT (code) / CC-BY-4.0 (docs, figures, aggregated data)"
+keywords:
+  - international communication
+  - GDELT
+  - event data
+  - datafication
+  - visibility
+  - United States
+  - replication package
+abstract: >-
+  Data, code, figures, and numerical validation for the paper "The Power to
+  Define Encounter: A Century of U.S. International Communication and Its
+  Datafied Form". Covers 641,360,876 GDELT events over 153 months, with a
+  130-month analysis window, under two entity coding bases.
+repository-code: "https://github.com/KelaoHu/Encounter-Definition-Power"
